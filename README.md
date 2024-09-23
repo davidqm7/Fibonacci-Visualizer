@@ -30,5 +30,5 @@ JavaScript: Logic for generating Fibonacci numbers.
 React Hooks: Manage state and lifecycle methods in functional components.
 
 ## Video
-[Watch Fibonacci Visualizer Demo](https://github.com/davidqm7/Fibonacci-Visualizer/blob/main/public/Fibonacci%20Visualizer.mp4)
+[Watch Fibonacci Visualizer Demo](https://www.youtube.com/watch?v=TbV9C5zeoD8)
 
